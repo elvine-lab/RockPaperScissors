@@ -1,0 +1,44 @@
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: crimson;
+}
+div {
+    text-align: center;
+    padding: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.game-result {
+    display: flexbox;
+    display: inline;
+   
+}
+.btn {
+    color: red;
+    background-color: rgb(0, 255, 30);
+    height: 50px;
+    width: 75;
+    font-weight: 200;
+    
+}
+.big-p {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: initial;
+    border-bottom: 2%;
+    font-weight: 900;
+}
+
+.small-p {
+    color: blue;
+    font-display: 2px;
+    font-weight: 600;
+
+}
+
+.result {
+    color: #4040a1;
+}
